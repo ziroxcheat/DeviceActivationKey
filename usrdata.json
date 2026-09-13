@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cfd05bc33545ef5c",
+        "key": "ZIROXISTHEBEST",
+        "expirydate": "14-09-2026",
+        "Allowoffline": false
     }
 ]
