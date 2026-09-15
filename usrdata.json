@@ -24,8 +24,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "",
-        "key": "ZIROXTEST-REDA",
+        "device_id": "231a81e50d493b4c",
+        "key": "ZIROX-ONEDAY",
         "expirydate": "16-09-2026",
         "Allowoffline": false
     },
@@ -36,4 +36,3 @@
         "Allowoffline": false
     }
 ]
-c6fb4eec72d228fe
