@@ -6,13 +6,13 @@
         "Allowoffline": true
     },
     {
-        "device_id": "b77c064894e597a1",
+        "device_id": "e0b962a165bde0e4",
         "key": "ZIROX-TEST-ONE",
         "expirydate": "20-09-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "4fff3853b37c3fc9",
+        "device_id": "",
         "key": "ZIROX-WANIS",
         "expirydate": "19-09-2026",
         "Allowoffline": false
@@ -24,7 +24,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "231a81e50d493b4c",
+        "device_id": "",
         "key": "ZIROX-ONEDAY",
         "expirydate": "16-09-2026",
         "Allowoffline": false
